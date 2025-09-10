@@ -1,4 +1,4 @@
-# 🚀 Full-Stack Application (FastAPI + React)
+# 🚀 NL TO SQL & Graph (FastAPI + React)
 
 ![Python](https://img.shields.io/badge/Python-3.9+-blue?logo=python)
 ![FastAPI](https://img.shields.io/badge/FastAPI-Backend-green?logo=fastapi)
